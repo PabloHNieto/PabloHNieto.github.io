@@ -1,5 +1,5 @@
 ---
-permalink: /notes/entry-1.md
+permalink: /notes/entry_1
 title: "Notes"
 excerpt: "Linux Info"
 author_profile: false

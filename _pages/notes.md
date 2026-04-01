@@ -7,4 +7,4 @@ redirect_from:
 ---
 
 ## 📝 Notes
-- [Entry 1](/notes/entry-1.md)
+- [Entry 1](/notes/entry_1)
