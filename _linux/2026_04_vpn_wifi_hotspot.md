@@ -2,6 +2,7 @@
 permalink: /linux/vpn&local_wifi
 collection: linux
 title: "Fix on VPN and dead local wifi"
+date: 2026-04-01
 author_profile: false
 excerpt: 'Using FortiClient with wifi hotspot resulted in no local internet. Here we fix it.'
 tags:
