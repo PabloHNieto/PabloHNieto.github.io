@@ -12,5 +12,5 @@ main:
   - title: #"Chimera"
     url: #/chimera/
 
-  - title: #"Cryo-EM"
-    url: #/cryoem/
+  - title: #"Scipion"
+    url: #/scipion/

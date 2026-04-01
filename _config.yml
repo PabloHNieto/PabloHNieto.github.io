@@ -182,7 +182,7 @@ collections:
   chimera:
     output: true
     permalink: /:collection/:path/
-  cryoem:
+  scipion:
     output: true
     permalink: /:collection/:path/
 
@@ -205,10 +205,10 @@ defaults:
       layout: single
       author_profile: false
 
-  # Cryo-EM
+  # Scipion
   - scope:
       path: ""
-      type: cryoem
+      type: scipion
     values:
       layout: single
       author_profile: false
