@@ -8,3 +8,9 @@ main:
 
   - title: #"Linux"
     url: #/linux/
+
+  - title: #"Chimera"
+    url: #/chimera/
+
+  - title: #"Cryo-EM"
+    url: #/cryoem/
