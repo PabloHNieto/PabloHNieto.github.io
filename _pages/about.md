@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## 📝 Notes
-- [Entry 1](notes/entry-1.md)
+- [Entry 1](/notes/entry-1.md)
 
 
 I studied biochemistry. Like other areas of biology, this was so fascinating to me that felt (and still feels) indistinguishable from science-fiction. When I learned programming, I discovered a whole new world of methodologies that could be applied to untangled biological mysteries.  So, I moved to Barcelona to pursue my MsC in Bioinformatics. Then, I worked briefly in the pharma industry at Janssen before going back to Barcelona to start my Phd. I completed it in July 2020, under the supervision of [Prof. Gianni de Fabritiis](https://scholar.google.com/citations?user=-_kX4kMAAAAJ&hl=en). The main topic was the study of intrinsically disordered proteins using molecular dynamics simulations. 
